@@ -1,1 +1,1 @@
-# fritzbox-routers-reboot
+# fritzbox-reboot

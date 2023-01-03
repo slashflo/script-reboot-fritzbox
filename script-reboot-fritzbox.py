@@ -155,4 +155,3 @@ for IPAddress in websites:
         
     finally:
         driver.quit()
-        

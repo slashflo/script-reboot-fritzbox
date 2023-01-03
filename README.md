@@ -1,1 +1,1 @@
-# fritzbox-reboot
+# script-reboot-fritzbox

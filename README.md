@@ -1,15 +1,15 @@
 # script-reboot-fritzbox
-python script to restart fritz.box via webscraping (webdriver pretends to be an user)
-cause of development
-    no programmable interface to restart fritz.box via protocol
-    no possibility for a restart schedule w/ fritz.box
-useful to restart your fritz.box sometimes, to reset network protocols
+#python script to restart fritz.box via webscraping (webdriver pretends to be an user)
+#cause of development
+    #no programmable interface to restart fritz.box via protocol
+    #no possibility for a restart schedule w/ fritz.box
+#useful to restart your fritz.box sometimes, to reset network protocols
 
-developed for MAC
-by /flo (@slashflo)
+#developed for MAC
+#by /flo (@slashflo)
 
 # dependencies (install before using)
-    # recommended order:        << terminal commands >>
+    # recommended order:    << terminal commands >>
     # homebrew:             /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     # python3&pip3:         brew install python
     # selenium:             pip3 install selenium

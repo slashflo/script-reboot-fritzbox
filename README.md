@@ -1,12 +1,12 @@
 # script-reboot-fritzbox
-#python script to restart fritz.box via webscraping (webdriver pretends to be an user)
-#cause of development
-    #no programmable interface to restart fritz.box via protocol
-    #no possibility for a restart schedule w/ fritz.box
-#useful to restart your fritz.box sometimes, to reset network protocols
+# python script to restart fritz.box via webscraping (webdriver pretends to be an user)
+# cause of development
+    # no programmable interface to restart fritz.box via protocol
+    # no possibility for a restart schedule w/ fritz.box
+# useful to restart your fritz.box sometimes, to reset network protocols
 
-#developed for MAC
-#by /flo (@slashflo)
+# developed for MAC
+# by /flo (@slashflo)
 
 # dependencies (install before using)
     # recommended order:    << terminal commands >>

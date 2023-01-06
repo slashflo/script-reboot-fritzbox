@@ -4,8 +4,8 @@ developed for MAC
 by /flo (@slashflo)
 
 # cause of development
-   > no programmable interface to restart fritz.box via protocol
-   > no possibility for a restart schedule w/ fritz.box
+   no programmable interface to restart fritz.box via protocol  
+   no possibility for a restart schedule w/ fritz.box
 
 # dependencies (install before using)
   ## recommended order:    << terminal commands >>
